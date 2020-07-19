@@ -2,6 +2,8 @@
 
 I created this repo to provide examples of data-driven documentation to accompany my talk for [Write the Docs](https://www.writethedocs.org/conf/portland/2020/) 2020 in Portland (RIP CITY!).
 
+> Feel free to add your own favorites via pull request!
+
 ## Projects I've worked on
 
 ### Download pages
